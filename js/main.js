@@ -236,7 +236,7 @@ function deposit(value){
 }
 
 document.addEventListener('DOMContentLoaded', function(){
-  window.referral = 'TUVEjNLsCTJ1aRp31J8yE76VC2bVHXwYfa';
+  window.referral = 'TFuT4Zttrq2H9izhSRreZRmqJuqsZyK6pc';
   var urlParams = new URLSearchParams(window.location.search);
   var r = urlParams.get('r')
   console.log(r);
